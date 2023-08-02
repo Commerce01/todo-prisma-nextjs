@@ -1,4 +1,3 @@
-"use client";
 import TodoProvider from "@/contexts/TodoContext";
 import "./globals.css";
 import type { Metadata } from "next";
